@@ -1,0 +1,121 @@
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\TokenAuthentication.API.dll.config
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\TokenAuthentication.API.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\TokenAuthentication.API.pdb
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\EntityFramework.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\EntityFramework.SqlServer.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Newtonsoft.Json.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Owin.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Net.Http.Formatting.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.Owin.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.WebHost.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\EntityFramework.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\EntityFramework.SqlServer.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Net.Http.Formatting.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.Owin.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Newtonsoft.Json.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.WebHost.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\fr\System.Net.Http.Formatting.resources.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\fr\System.Web.Http.resources.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\fr\System.Web.Http.WebHost.resources.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.csprojResolveAssemblyReference.cache
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.csproj.CoreCompileInputs.cache
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.pdb
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Cors.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Cors.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Cors.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Google.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Google.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\SendGrid.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Net.Http.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Security.Cryptography.Algorithms.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Security.Cryptography.Encoding.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Security.Cryptography.Primitives.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\SendGrid.pdb
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\bin\SendGrid.xml
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.Migrations.InitProject.resources
+E:\Microsoft Programming\PROJECTS_____MODELS\WebAPITokenAuthentication\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.csproj.GenerateResource.Cache
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\TokenAuthentication.API.dll.config
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\TokenAuthentication.API.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\TokenAuthentication.API.pdb
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\EntityFramework.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\EntityFramework.SqlServer.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Cors.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Google.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Newtonsoft.Json.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Owin.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\SendGrid.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Net.Http.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Net.Http.Formatting.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Security.Cryptography.Algorithms.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Security.Cryptography.Encoding.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Security.Cryptography.Primitives.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Security.Cryptography.X509Certificates.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Cors.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.Owin.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.WebHost.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\EntityFramework.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\EntityFramework.SqlServer.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Cors.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.Google.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\Newtonsoft.Json.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\SendGrid.pdb
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\SendGrid.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Net.Http.Formatting.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.Owin.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\System.Web.Http.WebHost.xml
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\fr\System.Net.Http.Formatting.resources.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\fr\System.Web.Http.resources.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\bin\fr\System.Web.Http.WebHost.resources.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.Migrations.initProject.resources
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.csproj.GenerateResource.cache
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.csproj.CoreCompileInputs.cache
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.csproj.CopyComplete
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.dll
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.pdb
+D:\pfe\TokenAuthentication.API\TokenAuthentication.API\obj\Debug\TokenAuthentication.API.csprojAssemblyReference.cache

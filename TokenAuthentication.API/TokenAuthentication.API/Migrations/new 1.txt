@@ -1,0 +1,47 @@
+{
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/dist": true,
+        "**/bin/Release": true,
+        "**/bin/Debug": true,
+        "**/obj/Release": true,
+        "**/obj/Debug": true,
+        "**/.vs": true
+    },
+    "files.hotExit": "off",
+    "workbench.colorTheme": "One Dark Pro",
+    "git.enableSmartCommit": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "window.restoreWindows": "none",
+    "editor.formatOnType": true,
+    "vetur.format.scriptInitialIndent": false,
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "vetur.format.defaultFormatter.ts": "vscode-typescript",
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "editor.links": false,
+    "editor.tabCompletion": "on",
+    "vetur.format.defaultFormatterOptions": {
+        "js-beautify-html": {
+            "wrap_attributes": "preserve-aligned"
+        },
+        "prettyhtml": {
+            "printWidth": 100,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        }
+    },
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "vetur.format.defaultFormatter.js": "vscode-typescript"
+}
